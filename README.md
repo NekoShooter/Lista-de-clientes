@@ -17,6 +17,9 @@
 ``` /ruta_de_tu_carpeta: virtualenv venv ```  
 ###### Segundo instalar el hermoso framework Qt:  
 ``` pip install PyQt5 ```  
+   
+##### Para correr la interfaz grafica:  
+``` python3 main.py``` 
 
 <h3 align="center">Lenguajes y Frameworks<h3/> <div align="center"> 
 <a href="https://github.com/NekoShooter?tab=repositories&q=&type=&language="><img src="https://i.ibb.co/Zd4fwqL/Python.png" alt="Python" width='50'></a>
